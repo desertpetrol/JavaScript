@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: roboto;
+}
+
+body {
+  background: rgb(25, 25, 25);
+  color: white;
+}
+
+.contador-container {
+  width: 100%;
+  padding: 30px;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contador-container .contador-btn {
+  margin: 10px;
+  padding: 10px;
+  width: 100px;
+}
+.contador-container .contador-texto {
+  padding: 15px;
+}
+.contador-container .contador {
+  font-size: 2em;
+}
+
+.welcome {
+  width: 100%;
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
