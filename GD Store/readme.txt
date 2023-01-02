@@ -1,2 +1,2 @@
 Meu primeiro projeto HTML. Feito como uma introdução a HTML e CSS. 
-Home page de uma loja de games.
+Home page responsiva de uma loja de games. 
